@@ -1,3 +1,7 @@
+# source
+https://github.com/brentp/smoove/blob/master/docker/Dockerfile
+
+
 ## Decoding the tag structure
 v.w.x
 vw is the version of ubuntu.  
