@@ -1,7 +1,7 @@
+* this repository originally resided at https://github.com/Benjamin-Vincent-Lab/lenstools , it was moved on 2/12/2024
+
 # source
 https://github.com/brentp/smoove/blob/master/docker/Dockerfile
-
-* this repository originally resided at https://github.com/Benjamin-Vincent-Lab/lenstools , it was moved on 2/12/2024
 
 ## Decoding the tag structure
 v.w.x
